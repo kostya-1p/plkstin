@@ -12,3 +12,5 @@ I've been a puppet, a pauper, a pirate, a poet, a pawn and a king
 I've been up and down and over and out and I know one thing
 Each time I find myself flat on my face
 I pick myself up and get back in the race
+
+new line
